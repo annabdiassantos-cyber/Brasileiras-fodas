@@ -19,4 +19,4 @@ Não deixei o projeto só no papel! Você pode testar e ver como ele ficou incr�
 
 ## Quem construiu isso?
 Este projeto foi feito com muito carinho pela:
-* Anna Beatriz estudante do Institudo fFderal de Brasília campus Ceilandia.
+* Anna Beatriz estudante do Institudo Federal de Brasília campus Ceilandia.
